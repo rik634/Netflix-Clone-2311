@@ -1,0 +1,7 @@
+axios
+styled-components
+firebase
+react-redux
+@reduxjs/toolkit
+react-router-dom
+react-icons
