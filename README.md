@@ -1,12 +1,12 @@
-**Netflix Clone Project**
+# Netflix Clone Project
 
 This project is a clone of Netflix, aiming to replicate the basic features and UI/UX of the popular streaming platform.
 
-**Overview**
+## Overview
 
 This project is a web application designed to mimic the user interface and functionality of Netflix. It includes features such as browsing movies and TV shows, viewing details, creating a watchlist, and more.
 
-**Features**
+## Features
 
 Browse movies and TV shows by genre.
 
@@ -16,14 +16,14 @@ Add/remove items to/from the watchlist.
 
 User authentication and profiles.
 
-**Setup**
+## Setup
 
-**Prerequisites**
+### Prerequisites
 
 Node.js and npm installed.
 Git installed.
 
-**Installation**
+### Installation
 
 1. Clone the repository:
 git clone https://github.com/rik634/Netflix-Clone-2311.git
@@ -34,11 +34,11 @@ cd netflix-clone
 3. Install dependencies:
 npm install
 
-**Usage**
+### Usage
 1. Start the application:
 npm start
 
-**Technologies Used**
+## Technologies Used
 
 ReactJS
 
