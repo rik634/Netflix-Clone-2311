@@ -1,0 +1,27 @@
+.nav__logo{
+    width: 100px;
+  }
+  
+  .topNav{
+    position: absolute;
+    width: 100%;
+    background-color: linear-gradient(180deg,black,transparent);
+    z-index: 10;
+    select{
+      background: rgba(0,0,0,.4);
+      border: 1px solid #aaa;
+      color: #fff;
+      font-size: .875rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      margin-right: 20px;
+    }
+    
+  }
+  .btn{
+    margin-left: 0.5rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.3rem;
+  }
+  
+
